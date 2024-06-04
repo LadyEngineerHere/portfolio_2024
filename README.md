@@ -18,6 +18,8 @@
 ### Demo Screeshots
 
 ![Amanda Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Amanda Portfolio Desktop Demo](./readme-images/desktop1.png "Desktop Demo")
+![Amanda Portfolio Desktop Demo](./readme-images/desktop2.png "Desktop Demo")
 
 
 ### License
