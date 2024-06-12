@@ -631,12 +631,12 @@ main { overflow-x: hidden; }
 
 .skills-box.active .skills-list,
 .skills-box .tools-list { 
-  animation: fadeIn 1s ease-in-out;
   display: none;
 }
 
 .skills-box .skills-list,
 .skills-box.active .tools-list {
+  animation: fadeIn 1s ease-in-out;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
