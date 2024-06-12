@@ -1391,4 +1391,23 @@ textarea.input-field {
   }
 }
 
+/* Define the keyframes for the shaking effect */
+@keyframes shake {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-5px);
+  }
+  75% {
+    transform: translateX(5px);
+  }
+}
+
+/* Apply the animation to images */
+.dancing-image {
+  animation: shake 0.5s infinite;
+}
+
+
 
